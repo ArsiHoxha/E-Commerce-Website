@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(51, 50, 50);
+    margin: 0;
+    padding: 0;
+}
+#titulli{
+    
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 56;
+}
+
+#tegjitha{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 300;
+    margin-left: 60;
+    display: inline-block;
+    position: relative;
+    top: auto;
+    margin-top: 80;
+    background-color: rgb(83, 83, 83);
+}
+
+#tegjitha:hover{
+    box-shadow: 2px -4px 6px 2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 2px -4px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px -4px 6px 2px rgba(0,0,0,0.75);
+}
+#pershkrimiText{
+    display:flex;
+    color: white;
+    text-align: center;
+    height: 300;
+    width: 300;
+    color: white;
+    font-weight: bold;
+    height: 250;
+    font-family: 'Roboto', sans-serif;
+
+}
+#cmimiText{
+    color: white;
+    text-align: center;
+    font-size:25;
+    font-family: 'Roboto', sans-serif;
+
+}
+#imgSrc{
+    width: 300;
+    height: 200;
+}
